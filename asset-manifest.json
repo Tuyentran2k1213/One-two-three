@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/One-two-three/static/css/main.24f900e7.css",
+    "main.js": "/One-two-three/static/js/main.7ce334bb.js",
+    "static/js/787.5a6db2e8.chunk.js": "/One-two-three/static/js/787.5a6db2e8.chunk.js",
+    "index.html": "/One-two-three/index.html",
+    "main.24f900e7.css.map": "/One-two-three/static/css/main.24f900e7.css.map",
+    "main.7ce334bb.js.map": "/One-two-three/static/js/main.7ce334bb.js.map",
+    "787.5a6db2e8.chunk.js.map": "/One-two-three/static/js/787.5a6db2e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f900e7.css",
+    "static/js/main.7ce334bb.js"
+  ]
+}
